@@ -50,3 +50,5 @@ Open `lib/math.rb`. You'll find a bunch of empty methods that take numbers as ar
 - order of operation
 
 The lab is test driven, so get the tests to pass.
+
+<a href='https://learn.co/lessons/simple-math' data-visibility='hidden'>Learn.co resource</a>
